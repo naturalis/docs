@@ -7,7 +7,7 @@ To get going you need to arrange a couple of things. Below, all necessary steps 
 Make a Github account
 ---------------------
 
-If you don't have a Github account, please `sign up for one <https://github.com/join>`_. Choose the free option.
+If you don't have a Github account, please `sign up for one <https://github.com/join>`_. Choose the free plan.
 
 After you've made the account, make an `ICT Support call <http://ictsupport.naturalis.nl>`_ with the request to join the Naturalis organization on Github.
 
@@ -48,3 +48,21 @@ To add a new section follow these steps
 Git client
 ^^^^^^^^^^
 
+As explained, the other way to contribute is to use a Git client to synchronize changes to the repository between your computer and Github. 
+
+On Linux you might be using git from the command line, on Windows you might want to take a look at `Github for Windows <https://windows.github.com/>`_.
+
+Please check out the `Github documentation <https://help.github.com/>`_ about the `Git workflow <https://help.github.com/categories/19/articles>`_, the `setup of the different clients <https://help.github.com/articles/set-up-git>`_ and the specifics of Github.
+
+Depending on your editor or IDE of choice the reStructuredText syntax might be highlighted. Some editors offer more support. Eclipse, for example, `has a plugin available <http://resteditor.sourceforge.net/>`_ that offers some nice extras.
+
+Working with reStructuredText
+-----------------------------
+
+As with everything, working with reStructuredText might need some getting used to. Probably the best advice is to just practice a bit. 
+
+To get started, it is recommended to first go through the `reStructuredText primer the Sphinx people wrote <http://sphinx-doc.org/rest.html>`_. Most of the markup you'll need is covered in this document. 
+
+An important tip at the start of the primer is to remember that "indentation is significant in reST", meaning that "all lines of the same paragraph must be left-aligned to the same level of indentation."
+
+Another useful document is the `quick reference provided by the developers of reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
