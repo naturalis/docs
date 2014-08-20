@@ -68,4 +68,6 @@ To get started, it is recommended to first go through the `reStructuredText prim
 
 Another useful document is the `quick reference provided by the developers of reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
 
+For reference of the entire reStructuredText markup `check this overview <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_.
+
 Last but not least, you can always have a look at `this documentation <https://github.com/naturalis/docs>`_ for example code and structuring of the repository.
