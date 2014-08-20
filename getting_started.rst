@@ -63,7 +63,8 @@ As with everything, working with reStructuredText might need some getting used t
 
 To get started, it is recommended to first go through the `reStructuredText primer the Sphinx people wrote <http://sphinx-doc.org/rest.html>`_. Most of the markup you'll need is covered in this document. 
 
-An important tip at the start of the primer is to remember that "indentation is significant in reST", meaning that "all lines of the same paragraph must be left-aligned to the same level of indentation."
+.. tip::
+   An important thing to remember, mentioned at the start of the primer, is that "indentation is significant in reST", meaning that "all lines of the same paragraph must be left-aligned to the same level of indentation."
 
 Another useful document is the `quick reference provided by the developers of reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
 
